@@ -30,7 +30,7 @@ Se ha generado una nube de palabras para identificar los títulos más comunes e
   Calificaciones: En este gráfico se puede ver cual es el promedio de calificaciones de nuestras películas que tenenmos en nuestro dataset.
 
   
-# Funciones para consulta
+# Desarrollo de API
 Como parte de este ejercicio, se han desarrollado seis funciones dentro de la API FastAPI para realizar consultas específicas en el conjunto de datos de Steam.
 
 1.def cantidad_filmaciones_mes( Mes ): Se ingresa un mes en idioma Español. Debe devolver la cantidad de películas que fueron estrenadas en el mes consultado en la totalidad del dataset.
