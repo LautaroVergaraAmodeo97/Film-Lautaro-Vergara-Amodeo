@@ -51,7 +51,7 @@ Como parte de este ejercicio, se han desarrollado seis funciones dentro de la AP
 
 
 
-Lo que muestro en el vídeo es sobre este Render :[link_render](https://film-lautaro-vergara-amodeo.onrender.com/#/default/obtener_recomendaciones_recomendar__titulo_pelicula__get)
+Lo que muestro en el vídeo es sobre este Render :[link_render](https://film-lautaro-vergara-amodeo.onrender.com)
 
 Y aquí les dejo el link del vídeo del proyecto: [video](https://youtu.be/t5tS6kgMVvs)
 
